@@ -1,0 +1,25 @@
+{
+  "name": "Z-Prefix-App",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UvZoomE/Z-Prefix-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UvZoomE/Z-Prefix-App/issues"
+  },
+  "homepage": "https://github.com/UvZoomE/Z-Prefix-App#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "knex": "^2.0.0",
+    "pg": "^8.7.3"
+  }
+}
